@@ -1,0 +1,43 @@
+p,.p{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-family: 'IBM Plex Serif', serif;       
+}
+
+nav a{
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    
+}
+
+.icon{
+    color:black;
+    font-size: 30px;
+    margin-right: 25px;
+}
+
+
+
+.heading h5{
+    font-family: 'Playfair Display', serif;
+    color: #373737;
+    font-style: italic;
+}
+
+.btn-violate{
+    border-radius: 40px;
+    background-color: #CD06FF;
+    color: #ffffff;
+}
+
+.btn-blue{
+    border-radius: 40px;
+    background-color: #0B06FF;
+    color: #ffffff;
+}
+/* .header-image{
+    height: 570px;
+    width: 840px;
+} */
